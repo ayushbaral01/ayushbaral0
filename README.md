@@ -24,10 +24,13 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 ### Connect With Me:
-![Screenshot 2024-01-10 151818](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/38f8f581-9f10-4abc-9779-43609b779f27)
+![Screenshot 2024-01-10 151818](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/e75739ee-ed64-42a1-833e-0ebbe40520e9)
 
 
-![Screenshot 2024-01-10 151613](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/6fcf72b8-6293-4fe5-a9ea-a6708bc3a33e)
+
+![Screenshot 2024-01-10 151613](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/5019031e-7deb-4d21-86c1-cc57d61e28c3)
+
+
 
 https://www.linkedin.com/in/ayush984263/
 
