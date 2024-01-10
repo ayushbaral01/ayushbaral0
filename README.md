@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Passionate Data Engineer | Big Data Enthusiast | Problem Solver
+Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. I love diving into big data challenges and leveraging the latest technologies to extract actionable insights. My repositories showcase projects where I've optimized data pipelines, implemented ETL processes, and applied data science techniques. I'm constantly exploring new tools and frameworks to stay at the forefront of the rapidly evolving data engineering landscape. Let's connect and collaborate on exciting data-driven projects!
+
+CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/13885261/ayush.ko.resume.2.page.pdf)
+
