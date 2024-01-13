@@ -28,7 +28,8 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 
-[![Linkedin](https://github.com/ayushbaral07/ayushbaral07/blob/42b016bfafee4e95af22655a78034e8162cfb247/Linkdin%20Profile.png)](https://www.linkedin.com/in/ayush984263/)
+[<img src="https://github.com/ayushbaral07/ayushbaral07/blob/42b016bfafee4e95af22655a78034e8162cfb247/Linkdin%20Profile.png" alt="LinkedIn" width="100" height="100">](https://www.linkedin.com/in/ayush984263/)
+
 
 
 
