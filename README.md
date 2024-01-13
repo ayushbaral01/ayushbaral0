@@ -28,11 +28,12 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 
-![Screenshot 2024-01-10 151613](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/5019031e-7deb-4d21-86c1-cc57d61e28c3)(https://www.linkedin.com/in/ayush984263/)
+[![LinkedIn](https://your-image-url.jpg)](https://www.linkedin.com/in/ayush984263/)
 
 
 
-https://www.linkedin.com/in/ayush984263/
+
+
 
 ### Language and Tools:
 ![cpp](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/a8693797-c3a3-4fc3-a3fc-edc04636195b)
