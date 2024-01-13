@@ -24,7 +24,7 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 ### Connect With Me:
-![Screenshot 2024-01-10 151818](https://github.com/ayushbaral07/ayushbaral07/assets/115476769/e75739ee-ed64-42a1-833e-0ebbe40520e9)
+[![Portfolio](https://github.com/ayushbaral07/ayushbaral07/blob/b260c61ab49dc06a5fecdadbf0d17c76d75f108c/Ayush%20portfolio.png)](https://ayushbaral07.github.io/ayush-portfolio/)
 
 
 
