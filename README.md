@@ -2,7 +2,7 @@
 
 <!--
 **ayushbaral07/ayushbaral07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+   
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,12 +24,12 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 ### Connect With Me:
-[<img src="https://github.com/ayushbaral07/ayushbaral07/blob/b260c61ab49dc06a5fecdadbf0d17c76d75f108c/Ayush%20portfolio.png" alt="Portfolio" width="800" height="300">](https://ayushbaral07.github.io/ayush-portfolio/)
+[<img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/Thumbnail.jpg" alt="Portfolio" width="600" height="174">](https://ayushbaral07.github.io/ayush-portfolio/)
 
 
 
 
-[<img src="https://github.com/ayushbaral07/ayushbaral07/blob/42b016bfafee4e95af22655a78034e8162cfb247/Linkdin%20Profile.png" alt="LinkedIn" width="800" height="300">](https://www.linkedin.com/in/ayush984263/)
+[<img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/Linkedin.jpg" alt="LinkedIn" width="600" height="300">](https://www.linkedin.com/in/ayush984263/)
 
 
 
