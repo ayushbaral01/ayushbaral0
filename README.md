@@ -21,7 +21,7 @@ CV: [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/1
 
 
 ### My Certification:
-
+[<img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/IMg%20cert.png" alt="Portfolio" width="600" height="220">](https://github.com/ayushbaral07/Certificates)
 
 ### Connect With Me:
 [<img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/Thumbnail.jpg" alt="Portfolio" width="600" height="174">](https://ayushbaral07.github.io/ayush-portfolio/)
